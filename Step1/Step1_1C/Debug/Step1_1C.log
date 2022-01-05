@@ -1,0 +1,8 @@
+﻿  Menu.cpp
+  App.cpp
+  Temperature.cpp
+C:\Users\paerw\OneDrive\Documents\Skola\C - Objektorienterad Programmering\Lab\Step1\Step1_1C\Temperature.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\paerw\OneDrive\Documents\Skola\C - Objektorienterad Programmering\Lab\Step1\Step1_1C\Temperature.cpp(97,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\paerw\OneDrive\Documents\Skola\C - Objektorienterad Programmering\Lab\Step1\Step1_1C\Temperature.cpp(109,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Step1_1C.vcxproj -> C:\Users\paerw\OneDrive\Documents\Skola\C - Objektorienterad Programmering\Lab\Step1\Step1_1C\Debug\Step1_1C.exe

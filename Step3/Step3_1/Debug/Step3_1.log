@@ -1,0 +1,2 @@
+﻿  TextTest-en.cpp
+C:\Users\paerw\OneDrive\Documents\Skola\C - Objektorienterad Programmering\Lab\Step3\Step3_1\TextTest-en.cpp(76,12): error C3892: 'anyText': you cannot assign to a variable that is const

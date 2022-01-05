@@ -1,0 +1,4 @@
+﻿  debug.cpp
+C:\Users\paerw\OneDrive\Documents\Skola\C - Objektorienterad Programmering\Lab\Step1\Step1_1B\debug.cpp(53,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\paerw\OneDrive\Documents\Skola\C - Objektorienterad Programmering\Lab\Step1\Step1_1B\debug.cpp(55,21): warning C4018: '<': signed/unsigned mismatch
+  Step1_1B.vcxproj -> C:\Users\paerw\OneDrive\Documents\Skola\C - Objektorienterad Programmering\Lab\Step1\Step1_1B\Debug\Step1_1B.exe

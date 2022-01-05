@@ -1,0 +1,3 @@
+﻿cl : command line warning D9014: invalid value '2065' for '/wd'; assuming '5999'
+  RoulettePlayer.cpp
+  Step3_2.vcxproj -> C:\Users\paerw\OneDrive\Documents\Skola\C - Objektorienterad Programmering\Lab\Step3\Step3_2\x64\Debug\Step3_2.exe

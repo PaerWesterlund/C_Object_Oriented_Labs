@@ -1,0 +1,5 @@
+﻿  miserable.cpp
+C:\Users\paerw\OneDrive\Documents\Skola\C - Objektorienterad Programmering\Lab\Step1\Step1_1A\miserable.cpp(104,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\paerw\OneDrive\Documents\Skola\C - Objektorienterad Programmering\Lab\Step1\Step1_1A\miserable.cpp(117,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\paerw\OneDrive\Documents\Skola\C - Objektorienterad Programmering\Lab\Step1\Step1_1A\miserable.cpp(132,20): warning C4018: '<': signed/unsigned mismatch
+  Step1_1A.vcxproj -> C:\Users\paerw\OneDrive\Documents\Skola\C - Objektorienterad Programmering\Lab\Step1\Step1_1A\Debug\Step1_1A.exe

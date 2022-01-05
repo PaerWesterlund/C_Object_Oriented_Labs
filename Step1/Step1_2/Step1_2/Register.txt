@@ -1,0 +1,508 @@
+Register opened
+Cat.  3 :        18.00 Kr. [ Tvål Sun ]
+Cat.  1 :        14.50 Kr. [ Äppelmos Bob ]
+Cat.  1 :        12.00 Kr. [ Coca Cola 2 lit. ]
+Cat.  1 :        18.00 Kr. [ Kroppkakor 4 st. ]
+Cat.  1 :         6.50 Kr. [ Mjölk mellan 1 lit ]
+Cat.  2 :       389.50 Kr. [ Skottkärran Emil ]
+Cat.  2 :       110.00 Kr. [ Räfsan Gunda ]
+Cat.  1 :        14.50 Kr. [ Socker bit ½ kg ]
+Cat.  3 :         9.50 Kr. [ Tandkräm Linnéa ]
+Cat.  3 :        37.00 Kr. [ Deodorant Axe ]
+Cat.  4 :         8.50 Kr. [ Aftonbladet ]
+Cat.  4 :        39.50 Kr. [ Mitt livs korsord ]
+Cat.  1 :        30.00 Kr. [ Svenssons äppelpaj ]
+Cat.  4 :        25.00 Kr. [ Skraplott Lyckans Ost ]
+Cat.  5 :        89.50 Kr. [ Räfflade dyckert 1000 st. ]
+Cat.  5 :        65.00 Kr. [ Hammaren Adam ]
+Cat.  1 :        12.50 Kr. [ Sörens Grova Limpa ]
+Cat.  1 :        29.50 Kr. [ Kaffe Gevalia Mörk ]
+Cat.  1 :        32.50 Kr. [ Glass Holland Eis ]
+Cat.  2 :        82.50 Kr. [ Myrgift Sudda Bort ]
+Cat.  5 :        32.50 Kr. [ Sandpapper blandat set ]
+Cat.  3 :        31.50 Kr. [ Munvatten Dentovit ]
+Cat.  5 :       310.50 Kr. [ Borrmaskinen Herbert ]
+Cat.  1 :        38.50 Kr. [ Makrillfiléer ½ kg ]
+Cat.  1 :        16.00 Kr. [ Findus Köttfärssås 2,5 dl. ]
+Register closed
+Category totals for last opening period:
+----------------------------------------
+Category   1 :    224.50
+Category   2 :    582.00
+Category   3 :     96.00
+Category   4 :     73.00
+Category   5 :    497.50
+Total sales within all categories: 1473.00
+==========================================================================
+Register opened
+Cat.  1 :        14.00 Kr. [  ]
+Register closed
+Category totals for last opening period:
+----------------------------------------
+Category   1 :     14.00
+Category   2 :      0.00
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 14.00
+==========================================================================
+----- Register opened -----
+Cat.  2 :        12.25 Kr. [ test ]
+----- Register closed -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :      0.00
+Category   2 :     12.25
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 12.25
+==========================================================================
+----- Register opened -----
+Cat.  1 :       100.34 Kr. [ Item1 ]
+----- Register opened -----
+Cat.  1 :       100.36 Kr. [ Item1 ]
+Cat.  2 :       234.40 Kr. [ Item2 ]
+Cat.  3 :       234.00 Kr. [ Item3 ]
+----- Register closed -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :    100.36
+Category   2 :    234.40
+Category   3 :    234.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 568.76
+==========================================================================
+----- Register opened -----
+Cat.  1 :       123.40 Kr. [ item1 ]
+Cat.  2 :       234.54 Kr. [ item2 ]
+----- Register opened -----
+Cat.  1 :       102.30 Kr. [ item1 ]
+Cat.  2 :       234.54 Kr. [ item2 ]
+----- Register closed -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :    102.30
+Category   2 :    234.54
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 336.84
+==========================================================================
+----- Register opened -----
+Cat.  1 :       123.54 Kr. [ item1 ]
+Cat.  2 :       234.50 Kr. [ item2 ]
+Cat.  3 :      3456.00 Kr. [ item3 ]
+----- Register closed -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :    123.54
+Category   2 :    234.50
+Category   3 :   3456.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 3814.04
+==========================================================================
+----- Register opened -----
+Cat.  1 :        23.00 Kr. [ item1 ]
+----- Register closed -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :     23.00
+Category   2 :      0.00
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 23.00
+==========================================================================
+----- Register opened -----
+Cat.  1 :        23.00 Kr. [ ite ]
+----- Register closed -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :     23.00
+Category   2 :      0.00
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 23.00
+==========================================================================
+----- Register opened -----
+Cat.  3 :        56.00 Kr. [ iy ]
+----- Register closed -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :      0.00
+Category   2 :      0.00
+Category   3 :     56.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 56.00
+==========================================================================
+----- Register opened -----
+Cat.  1 :       100.00 Kr. [ item1 ]
+Cat.  2 :       200.00 Kr. [ item2 ]
+----- Register closed -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :    100.00
+Category   2 :    200.00
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 300.00
+==========================================================================
+----- Register opened -----
+Cat.  1 :        23.00 Kr. [ item1 ]
+----- Register closed -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :     23.00
+Category   2 :      0.00
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 23.00
+==========================================================================
+----- Register opened -----
+Cat.  5 :        56.00 Kr. [ er ]
+----- Register closed -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :      0.00
+Category   2 :      0.00
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :     56.00
+Total sales within all categories: 56.00
+==========================================================================
+----- Register opened -----
+----- Register opened -----
+Cat.  1 :        23.00 Kr. [ e ]
+----- Register closed -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :     23.00
+Category   2 :      0.00
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 23.00
+==========================================================================
+----- Register opened -----
+Cat.  1 :       324.00 Kr. [ ite459%&/(7 ]
+Cat.  1 :         0.00 Kr. [ ryefh ]
+----- Register opened -----
+----- Register closed -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :         0
+Category   2 :         0
+Category   3 :         0
+Category   4 :         0
+Category   5 :         0
+Total sales within all categories: 0
+==========================================================================
+----- Register opened -----
+----- Register closed -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :         0
+Category   2 :         0
+Category   3 :         0
+Category   4 :         0
+Category   5 :         0
+Total sales within all categories: 0
+==========================================================================
+----- Register opened -----
+Cat.  1 :        67.00 Kr. [ jhbjhj ]
+----- Register opened -----
+----- Register opened -----
+Cat.  5 :        56.00 Kr. [  ]
+----- Register closed -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :      0.00
+Category   2 :      0.00
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :     56.00
+Total sales within all categories: 56.00
+==========================================================================
+----- REGISTER OPENED -----
+----- REGISTER OPENED -----
+Cat.  1 :         0.00 Kr. [  ]
+----- REGISTER OPENED -----
+Cat.  1 :        89.00 Kr. [  ]
+Cat.  2 :         0.00 Kr. [  ]
+----- REGISTER OPENED -----
+Cat.  2 :        34.00 Kr. [ item2 ]
+Cat.  1 :        23.00 Kr. [ item1 ]
+Cat.  2 :        20.00 Kr. [ two ]
+----- REGISTER CLOSED -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :     23.00
+Category   2 :     54.00
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 77.00
+==========================================================================
+----- REGISTER OPENED -----
+Cat.  1 :         1.00 Kr. [ one ]
+----- REGISTER CLOSED -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :      1.00
+Category   2 :      0.00
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 1.00
+==========================================================================
+----- REGISTER OPENED -----
+Cat.  3 :        78.00 Kr. [ uy ]
+----- REGISTER CLOSED -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :      0.00
+Category   2 :      0.00
+Category   3 :     78.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 78.00
+==========================================================================
+----- REGISTER OPENED -----
+Cat.  4 :        78.00 Kr. [ hjk ]
+----- REGISTER CLOSED -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :      0.00
+Category   2 :      0.00
+Category   3 :      0.00
+Category   4 :     78.00
+Category   5 :      0.00
+Total sales within all categories: 78.00
+==========================================================================
+----- REGISTER OPENED -----
+Cat.  1 :        87.00 Kr. [ bnh ]
+Cat.  4 : 4444444444444444220070580715520.00 Kr. [ y87t”98oh ]
+----- REGISTER CLOSED -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :     87.00
+Category   2 :      0.00
+Category   3 :      0.00
+Category   4 : 4444444444444444220070580715520.00
+Category   5 :      0.00
+Total sales within all categories: 4444444444444444220070580715520.00
+==========================================================================
+----- REGISTER OPENED -----
+Cat.  1 :        56.00 Kr. [ rt ]
+----- REGISTER OPENED -----
+Cat.  1 :        67.00 Kr. [ rt ]
+----- REGISTER OPENED -----
+Cat.  1 :        11.00 Kr. [ item1 ]
+----- REGISTER OPENED -----
+----- REGISTER OPENED -----
+----- REGISTER OPENED -----
+----- REGISTER OPENED -----
+Cat.  2 :        43.00 Kr. [ er ]
+Cat.  3 :        34.00 Kr. [ er ]
+----- REGISTER CLOSED -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :      0.00
+Category   2 :     43.00
+Category   3 :     34.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 77.00
+==========================================================================
+----- REGISTER OPENED -----
+Cat.  3 :         3.00 Kr. [ tre ]
+----- REGISTER CLOSED -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :      0.00
+Category   2 :      0.00
+Category   3 :      3.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 3.00
+==========================================================================
+----- REGISTER OPENED -----
+Cat.  2 :         2.00 Kr. [ two ]
+Cat.  3 :        33.00 Kr. [ tre ]
+----- REGISTER CLOSED -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :      0.00
+Category   2 :      2.00
+Category   3 :     33.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 35.00
+==========================================================================
+----- REGISTER OPENED -----
+Cat.  2 :        56.00 Kr. [ re ]
+----- REGISTER CLOSED -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :      0.00
+Category   2 :     56.00
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 56.00
+==========================================================================
+----- REGISTER OPENED -----
+Cat.  1 :        23.00 Kr. [ i ]
+----- REGISTER CLOSED -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :     23.00
+Category   2 :      0.00
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 23.00
+==========================================================================
+----- REGISTER OPENED -----
+Cat.  1 :         1.00 Kr. [ one ]
+----- REGISTER CLOSED -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :      1.00
+Category   2 :      0.00
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 1.00
+==========================================================================
+----- REGISTER OPENED -----
+Cat.  1 :         2.00 Kr. [ one ]
+----- REGISTER CLOSED -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :      2.00
+Category   2 :      0.00
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 2.00
+==========================================================================
+----- REGISTER OPENED -----
+Cat.  2 :       222.00 Kr. [ two ]
+----- REGISTER CLOSED -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :      0.00
+Category   2 :    222.00
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 222.00
+==========================================================================
+----- REGISTER OPENED -----
+Cat.  1 :        23.00 Kr. [ tr ]
+----- REGISTER CLOSED -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :     23.00
+Category   2 :      0.00
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 23.00
+==========================================================================
+----- REGISTER OPENED -----
+Cat.  2 :        23.00 Kr. [ two ]
+----- REGISTER CLOSED -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :      0.00
+Category   2 :     23.00
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 23.00
+==========================================================================
+----- REGISTER OPENED -----
+Cat.  3 :         3.00 Kr. [ three ]
+Cat.  3 :        34.00 Kr. [ re ]
+Cat.  5 :        34.00 Kr. [ er ]
+Cat.  4 :       234.00 Kr. [ wer ]
+----- REGISTER CLOSED -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :      0.00
+Category   2 :      0.00
+Category   3 :     37.00
+Category   4 :    234.00
+Category   5 :     34.00
+Total sales within all categories: 305.00
+==========================================================================
+----- REGISTER OPENED -----
+Cat.  4 :        34.76 Kr. [ ret ]
+Cat.  1 :        34.00 Kr. [ tre ]
+----- REGISTER CLOSED -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :     34.00
+Category   2 :      0.00
+Category   3 :      0.00
+Category   4 :     34.76
+Category   5 :      0.00
+Total sales within all categories: 68.76
+==========================================================================
+----- REGISTER OPENED -----
+Cat.  3 :        18.00 Kr. [ Tvål Sun ]
+Cat.  1 :        14.50 Kr. [ Äppelmos Bob ]
+Cat.  1 :        12.00 Kr. [ Coca Cola 2 lit. ]
+Cat.  1 :        18.00 Kr. [ Kroppkakor 4 st. ]
+Cat.  1 :         6.50 Kr. [ Mjölk mellan 1 lit ]
+Cat.  2 :       389.50 Kr. [ Skottkärran Emil ]
+Cat.  2 :       110.00 Kr. [ Räfsan Gunda ]
+Cat.  1 :        14.50 Kr. [ Socker bit ½ kg ]
+Cat.  3 :         9.50 Kr. [ Tandkräm Linnéa ]
+Cat.  3 :        37.00 Kr. [ Deodorant Axe ]
+Cat.  4 :         8.50 Kr. [ Aftonbladet ]
+Cat.  4 :        39.50 Kr. [ Mitt livs korsord ]
+Cat.  1 :        30.00 Kr. [ Svenssons äppelpaj ]
+Cat.  4 :        25.00 Kr. [ Skraplott Lyckans Ost ]
+Cat.  5 :        89.50 Kr. [ Räfflade dyckert 1000 st. ]
+Cat.  5 :        65.00 Kr. [ Hammaren Adam ]
+Cat.  1 :        12.50 Kr. [ Sörens Grova Limpa ]
+Cat.  1 :        29.50 Kr. [ Kaffe Gevalia Mörk ]
+Cat.  1 :        32.50 Kr. [ Glass Holland Eis ]
+Cat.  2 :        82.50 Kr. [ Myrgift Sudda Bort ]
+Cat.  5 :        32.50 Kr. [ Sandpapper blandat set ]
+Cat.  3 :        31.50 Kr. [ Munvatten Dentovit ]
+Cat.  5 :       310.50 Kr. [ Borrmaskinen Herbert ]
+Cat.  1 :        38.50 Kr. [ Makrillfiléer ½ kg ]
+Cat.  1 :        16.00 Kr. [ Findus Köttfärssås 2,5 dl. ]
+----- REGISTER CLOSED -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :    224.50
+Category   2 :    582.00
+Category   3 :     96.00
+Category   4 :     73.00
+Category   5 :    497.50
+Total sales within all categories: 1473.00
+==========================================================================
+----- REGISTER OPENED -----
+Cat.  1 :       111.00 Kr. [ one ]
+----- REGISTER CLOSED -----
+Category totals for last opening period:
+----------------------------------------
+Category   1 :    111.00
+Category   2 :      0.00
+Category   3 :      0.00
+Category   4 :      0.00
+Category   5 :      0.00
+Total sales within all categories: 111.00
+==========================================================================

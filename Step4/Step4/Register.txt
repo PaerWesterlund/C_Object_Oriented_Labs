@@ -1,0 +1,67 @@
+
+%%%%%
+Music
+1
+Love story
+Indila
+Pop
+%%%%%
+Book
+2
+C++
+Bill Gates
+1000
+1998
+%%%%%
+Plant
+3
+Brudorkide
+Phaleonopsis
+Orchidae
+%%%%%
+Music
+4
+Var „r tv†len?
+Povel Ramel
+Visor
+1960
+%%%%%
+Book
+5
+Husmanskost
+Morberg
+150
+2010
+%%%%%
+Plant
+6
+Basilika
+Basilicum
+Kryddor
+%%%%%
+Music
+8
+Luna
+Alessandro Safina
+Modern Opera
+2008
+%%%%%
+Book
+9
+How to avoid a climate disaster
+Bill Gates
+999
+2021
+%%%%%
+Plant
+10
+Timjan
+Thymus vulgaris
+Timjan
+%%%%%
+Book
+11
+Annas mat
+Anna Bergenstr”m
+558
+2012
